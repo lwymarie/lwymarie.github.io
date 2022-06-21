@@ -9,16 +9,15 @@
 </head>
 
 <body>
-<ul class="tabs" data-tabs id="example-tabs">
-    <li class="tabs-title is-active"><a href="#panel1">About</a></li>
-    <li class="tabs-title"><a href="#panel2">Research</a></li>
-    <li class="tabs-title"><a href="#panel3">Teaching and Mentoring</a></li>
-    <li class="tabs-title"><a href="#panel4">Other</a></li>
-</ul>
 
-<div class="tabs-content" data-tabs-content="example-tabs">
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event,'About')" id="defaultOpen">About</button>
+  <button class="tablinks" onclick="openTab(event,'Research')">Research</button>
+  <button class="tablinks" onclick="openTab(event,'Teaching and Mentoring')">Teaching and Mentoring</button>
+  <button class="tablinks" onclick="openTab(event,'Other')">Other</button>
+</div>
 
-    <div class="tabs-panel is-active" id="panel1">
+<div class="tabcontent" id="About">
         <div style="width:30%;float:right;margin:1em;">
             <img src="profile0.bmp" style="margin-bottom: 1em;">
             <img src="Palomar.jpg" style="margin-bottom: 1em;">
@@ -54,9 +53,9 @@
                 life is to be feared. It is only to be understood. Now it's the time to understand more,
                 so that we may fear less."</a></i></p>
         <p>This homepage is last updated on March 24, 2022.</p>
-    </div>
+</div>
 
-    <div class="tabs-panel" id="panel2">
+<div class="tabcontent" id="Research">
       <p><b>Extremely Dust-Reddened Quasars</b> </p>
       <p>Dust obscured quasars are believed to be in a young stage of quasar/galaxy evolution, where
         quasar feedback could be more important for driving blowouts and disrupting star formation in
@@ -302,9 +301,9 @@
         <a href="https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0001-9755-9406&sort=date+desc">
           here</a>.</p>
       <p></p>
-    </div>
+</div>
 
-    <div class="tabs-panel" id="panel3">
+<div class="tabcontent" id="Teaching and Mentoring">
       <p>I led Mr. <a href="https://local.strw.leidenuniv.nl/people/pers.php?id=5415">Greg Sallaberry</a>
         on his undergraduate senior thesis at UC Santa Cruz, who is now a
         master student at Leiden University. The work is partially sponsored by the STEM diversity
@@ -344,9 +343,9 @@
       <p></p>
       <p>I have given private tutorials to low income children in Hong Kong. I taught Mathematics
          and English (as a second language). </p>
-    </div>
+</div>
 
-    <div class="tabs-panel" id="panel4">
+<div class="tabcontent" id="Other">
       <p>Prior to beginning a career in Astronomy, I participated in short research
         projects in various physical science disciplines. </p>
       <ul>
@@ -392,8 +391,24 @@
         <a href="http://apod.nasa.gov/apod/ap160302.html">Unsual clouds over Hong Kong</a>,
         <a href="http://apod.nasa.gov/apod/ap100206.html">Hong Kong sky</a>,
         <a href="http://apod.nasa.gov/apod/ap090820.html">Eclipse city</a>. </p>
-    </div>
-  </div>
+</div>
+
+<script>
+  function openTab(evt,tabName) {
+    var i,tabcontent,tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i=0;i<tabcontent.length;i++) {
+      tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i=0;i<tablinks.length;i++) {
+      tablinks[i].className = tablinks[i].className.replace(" active","");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+  }
+  document.getElementById("defaultOpen").click();
+</script>
 
   </body>
 </html>
