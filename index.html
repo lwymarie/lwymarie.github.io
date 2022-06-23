@@ -9,7 +9,7 @@
       body {text-align:justify; font-family:"Times New Roman";}
       /* Style the tab */
       .tab {
-          overflow: hidden;
+          overflow: visible;
           border: 1px solid #ccc;
           background-color: #f1f1f1;
       }
@@ -48,9 +48,11 @@
 </div>
 
 <div class="tabcontent" id="About">
-    <img src="profile0.bmp" style="width:10%; float:right; margin:1em"><br>
-    <img src="Palomar.jpg" style="width:10%; float:right; margin:1em"><br>
-    <img src="Shane.jpg" style="width:10%; float:right; margin:1em">
+        <div style="width:10%;float:right;margin:1em;">
+            <img src="profile0.bmp" style="margin-bottom:1em;">
+            <img src="Palomar.jpg" style="margin-bottom:1em;">
+            <img src="Shane.jpg">
+        </div>
 
         <p>I am a postdoctoral scholar in Physics & Astronomy at the
           <a href="http://www.astro.ucr.edu">University of California, Riverside</a>, under the
