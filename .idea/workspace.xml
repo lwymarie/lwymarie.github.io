@@ -284,27 +284,7 @@
       <workItem from="1746430475070" duration="1000" />
       <workItem from="1746478985397" duration="920000" />
       <workItem from="1746479943698" duration="225000" />
-    </task>
-    <task id="LOCAL-00291" summary="Small changes">
-      <created>1694145014167</created>
-      <option name="number" value="00291" />
-      <option name="presentableId" value="LOCAL-00291" />
-      <option name="project" value="LOCAL" />
-      <updated>1694145014167</updated>
-    </task>
-    <task id="LOCAL-00292" summary="Small changes">
-      <created>1694289045397</created>
-      <option name="number" value="00292" />
-      <option name="presentableId" value="LOCAL-00292" />
-      <option name="project" value="LOCAL" />
-      <updated>1694289045397</updated>
-    </task>
-    <task id="LOCAL-00293" summary="Small changes">
-      <created>1694317418755</created>
-      <option name="number" value="00293" />
-      <option name="presentableId" value="LOCAL-00293" />
-      <option name="project" value="LOCAL" />
-      <updated>1694317418756</updated>
+      <workItem from="1746480206481" duration="276000" />
     </task>
     <task id="LOCAL-00294" summary="Small changes">
       <created>1694317435024</created>
@@ -628,7 +608,28 @@
       <option name="project" value="LOCAL" />
       <updated>1746480117936</updated>
     </task>
-    <option name="localTasksCounter" value="340" />
+    <task id="LOCAL-00340" summary="Small changes">
+      <created>1746480225811</created>
+      <option name="number" value="00340" />
+      <option name="presentableId" value="LOCAL-00340" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480225811</updated>
+    </task>
+    <task id="LOCAL-00341" summary="Small changes">
+      <created>1746480354043</created>
+      <option name="number" value="00341" />
+      <option name="presentableId" value="LOCAL-00341" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480354043</updated>
+    </task>
+    <task id="LOCAL-00342" summary="Small changes">
+      <created>1746480485031</created>
+      <option name="number" value="00342" />
+      <option name="presentableId" value="LOCAL-00342" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480485031</updated>
+    </task>
+    <option name="localTasksCounter" value="343" />
     <servers />
   </component>
   <component name="ToolWindowManager">
