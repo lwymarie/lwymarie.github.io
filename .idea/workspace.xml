@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2137dbd8-bb47-435e-b487-aa1456589649" name="Default" comment="Small changes">
-      <change beforePath="$PROJECT_DIR$/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CV.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="2137dbd8-bb47-435e-b487-aa1456589649" name="Default" comment="Small changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,28 +290,7 @@
       <workItem from="1748470426822" duration="52000" />
       <workItem from="1751525799873" duration="2910000" />
       <workItem from="1751528889251" duration="156000" />
-      <workItem from="1751529606257" duration="491000" />
-    </task>
-    <task id="LOCAL-00301" summary="Small changes">
-      <created>1694483459966</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
-      <option name="project" value="LOCAL" />
-      <updated>1694483459967</updated>
-    </task>
-    <task id="LOCAL-00302" summary="Small changes">
-      <created>1694638042424</created>
-      <option name="number" value="00302" />
-      <option name="presentableId" value="LOCAL-00302" />
-      <option name="project" value="LOCAL" />
-      <updated>1694638042425</updated>
-    </task>
-    <task id="LOCAL-00303" summary="Small changes">
-      <created>1694638482160</created>
-      <option name="number" value="00303" />
-      <option name="presentableId" value="LOCAL-00303" />
-      <option name="project" value="LOCAL" />
-      <updated>1694638482161</updated>
+      <workItem from="1751529606257" duration="745000" />
     </task>
     <task id="LOCAL-00304" summary="Small changes">
       <created>1694638688444</created>
@@ -637,7 +614,28 @@
       <option name="project" value="LOCAL" />
       <updated>1751529749640</updated>
     </task>
-    <option name="localTasksCounter" value="350" />
+    <task id="LOCAL-00350" summary="Small changes">
+      <created>1751530148783</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
+      <option name="project" value="LOCAL" />
+      <updated>1751530148783</updated>
+    </task>
+    <task id="LOCAL-00351" summary="Small changes">
+      <created>1751530265520</created>
+      <option name="number" value="00351" />
+      <option name="presentableId" value="LOCAL-00351" />
+      <option name="project" value="LOCAL" />
+      <updated>1751530265520</updated>
+    </task>
+    <task id="LOCAL-00352" summary="Small changes">
+      <created>1751530397374</created>
+      <option name="number" value="00352" />
+      <option name="presentableId" value="LOCAL-00352" />
+      <option name="project" value="LOCAL" />
+      <updated>1751530397374</updated>
+    </task>
+    <option name="localTasksCounter" value="353" />
     <servers />
   </component>
   <component name="ToolWindowManager">
