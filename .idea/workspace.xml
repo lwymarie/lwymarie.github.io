@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2137dbd8-bb47-435e-b487-aa1456589649" name="Default" comment="Small changes" />
+    <list default="true" id="2137dbd8-bb47-435e-b487-aa1456589649" name="Default" comment="Small changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -288,14 +291,7 @@
       <workItem from="1746480646214" duration="36000" />
       <workItem from="1746480775036" duration="59000" />
       <workItem from="1748470426822" duration="52000" />
-      <workItem from="1751525799873" duration="1386000" />
-    </task>
-    <task id="LOCAL-00297" summary="Small changes">
-      <created>1694321323474</created>
-      <option name="number" value="00297" />
-      <option name="presentableId" value="LOCAL-00297" />
-      <option name="project" value="LOCAL" />
-      <updated>1694321323474</updated>
+      <workItem from="1751525799873" duration="2666000" />
     </task>
     <task id="LOCAL-00298" summary="Small changes">
       <created>1694321336216</created>
@@ -633,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1751527148873</updated>
     </task>
-    <option name="localTasksCounter" value="346" />
+    <task id="LOCAL-00346" summary="Small changes">
+      <created>1751527293455</created>
+      <option name="number" value="00346" />
+      <option name="presentableId" value="LOCAL-00346" />
+      <option name="project" value="LOCAL" />
+      <updated>1751527293455</updated>
+    </task>
+    <option name="localTasksCounter" value="347" />
     <servers />
   </component>
   <component name="ToolWindowManager">
