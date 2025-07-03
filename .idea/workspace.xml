@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2137dbd8-bb47-435e-b487-aa1456589649" name="Default" comment="Small changes" />
+    <list default="true" id="2137dbd8-bb47-435e-b487-aa1456589649" name="Default" comment="Small changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -286,13 +290,9 @@
       <workItem from="1746479943698" duration="225000" />
       <workItem from="1746480206481" duration="276000" />
       <workItem from="1746480646214" duration="36000" />
-    </task>
-    <task id="LOCAL-00295" summary="Small changes">
-      <created>1694317630002</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
-      <option name="project" value="LOCAL" />
-      <updated>1694317630002</updated>
+      <workItem from="1746480775036" duration="59000" />
+      <workItem from="1748470426822" duration="52000" />
+      <workItem from="1751525799873" duration="1054000" />
     </task>
     <task id="LOCAL-00296" summary="Small changes">
       <created>1694321070398</created>
@@ -630,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1746480675884</updated>
     </task>
-    <option name="localTasksCounter" value="344" />
+    <task id="LOCAL-00344" summary="Small changes">
+      <created>1746480828202</created>
+      <option name="number" value="00344" />
+      <option name="presentableId" value="LOCAL-00344" />
+      <option name="project" value="LOCAL" />
+      <updated>1746480828203</updated>
+    </task>
+    <option name="localTasksCounter" value="345" />
     <servers />
   </component>
   <component name="ToolWindowManager">
