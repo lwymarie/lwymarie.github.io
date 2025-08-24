@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2137dbd8-bb47-435e-b487-aa1456589649" name="Default" comment="Small changes">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="2137dbd8-bb47-435e-b487-aa1456589649" name="Default" comment="Small changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -295,14 +293,7 @@
       <workItem from="1751529606257" duration="745000" />
       <workItem from="1751559410116" duration="661000" />
       <workItem from="1751584971666" duration="358000" />
-      <workItem from="1752568654614" duration="1044000" />
-    </task>
-    <task id="LOCAL-00308" summary="Small changes">
-      <created>1700630829701</created>
-      <option name="number" value="00308" />
-      <option name="presentableId" value="LOCAL-00308" />
-      <option name="project" value="LOCAL" />
-      <updated>1700630829702</updated>
+      <workItem from="1752568654614" duration="1275000" />
     </task>
     <task id="LOCAL-00309" summary="Small changes">
       <created>1701407474875</created>
@@ -640,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752569452611</updated>
     </task>
-    <option name="localTasksCounter" value="357" />
+    <task id="LOCAL-00357" summary="Small changes">
+      <created>1752569773716</created>
+      <option name="number" value="00357" />
+      <option name="presentableId" value="LOCAL-00357" />
+      <option name="project" value="LOCAL" />
+      <updated>1752569773716</updated>
+    </task>
+    <option name="localTasksCounter" value="358" />
     <servers />
   </component>
   <component name="ToolWindowManager">
