@@ -299,13 +299,7 @@
       <workItem from="1757717204162" duration="19000" />
       <workItem from="1758214722354" duration="74000" />
       <workItem from="1758682422619" duration="115000" />
-    </task>
-    <task id="LOCAL-00314" summary="Small changes">
-      <created>1701605554299</created>
-      <option name="number" value="00314" />
-      <option name="presentableId" value="LOCAL-00314" />
-      <option name="project" value="LOCAL" />
-      <updated>1701605554299</updated>
+      <workItem from="1759203948502" duration="92000" />
     </task>
     <task id="LOCAL-00315" summary="Small changes">
       <created>1701852500411</created>
@@ -643,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1758682532974</updated>
     </task>
-    <option name="localTasksCounter" value="363" />
+    <task id="LOCAL-00363" summary="Small changes">
+      <created>1759204030127</created>
+      <option name="number" value="00363" />
+      <option name="presentableId" value="LOCAL-00363" />
+      <option name="project" value="LOCAL" />
+      <updated>1759204030127</updated>
+    </task>
+    <option name="localTasksCounter" value="364" />
     <servers />
   </component>
   <component name="ToolWindowManager">
